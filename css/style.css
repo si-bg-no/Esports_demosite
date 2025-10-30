@@ -209,6 +209,10 @@ ion-icon {
   color: #34acb4;
 }
 
+.main-img-phone {
+  display: none;
+}
+
 /* -------------
     About
 ------------- */
