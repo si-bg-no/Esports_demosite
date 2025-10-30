@@ -218,19 +218,3 @@
     padding: 1.5rem 1.5rem;
   }
 }
-
-/* =======================
-    Responsive: 432px
-======================= */
-
-@media screen and (max-width: 20em) {
-  .main-img {
-    display: none;
-  }
-
-  .main-img-phone {
-    display: block;
-    max-width: 100vw;
-    height: auto;
-  }
-}
