@@ -140,7 +140,7 @@
   }
 
   .main-img {
-    height: 50vh;
+    height: 35vh;
   }
 
   .about-group img {
@@ -207,15 +207,12 @@
     font-size: 43.75%; /* 1rem = 7px */
   }
 
-  .main-img {
-    height: 35vh;
-  }
-
   .reservation-btn {
     right: 5%;
     font-size: 1.5rem;
     padding: 1.5rem 1.5rem;
   }
 }
+
 
 
