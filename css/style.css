@@ -348,6 +348,7 @@ ion-icon {
 
 .plan-group h2 {
   width: 100%;
+  color: #fff;
   background-color: #34acb4;
   line-height: 2.5;
 }
@@ -778,4 +779,5 @@ footer {
   font-size: 1.4rem;
   text-align: center;
 }
+
 
