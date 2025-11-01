@@ -138,15 +138,7 @@
   html {
     font-size: 50%; /* 1rem = 8px */
   }
-
-  .main-img {
-    height: 35vh;
-  }
-
-  .about-group img {
-    height: 40vh;
-  }
-
+    
   .about-group {
     grid-template-columns: repeat(1, 1fr);
   }
@@ -222,6 +214,7 @@
   }
     
 }
+
 
 
 
